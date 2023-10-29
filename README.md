@@ -30,7 +30,7 @@ Let's explore the endless possibilities of technology together! 🤖✨
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/Torch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ### platforms
-![STM](https://img.shields.io/badge/STM-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
+![STM](https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![Realsense](https://img.shields.io/badge/Realsense-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white)
 ![Kinect](https://img.shields.io/badge/Kinect_DK-0078D4.svg?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
 
@@ -39,12 +39,9 @@ Let's explore the endless possibilities of technology together! 🤖✨
 ![Doosan](https://img.shields.io/badge/Doosan-0160B4.svg?style=for-the-badge&logo=pkgsrc&logoColor=33A692)
 ![Fanuc](https://img.shields.io/badge/Fanuc-F6D43C.svg?style=for-the-badge&labelColor=F6D43C)
 ### hardware
-![SolidWorks](https://img.shields.io/badge/Solid_Works-DF3B27.svg?style=for-the-badge&logo=DassaultSystemes&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-DF3B27.svg?style=for-the-badge&logo=DassaultSystemes&logoColor=white)
 ![Cura](https://img.shields.io/badge/Cura-2BA3D8.svg?style=for-the-badge&logo=Cloudera&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium_Designer-A5915F.svg?style=for-the-badge&logo=AltiumDesigner&logoColor=white)
-
-## 🔗 Interesting Links
-- Grounding LLM on robot (post) – [read on Habr](https://habr.com/ru/articles/756800)
 
 ## 💫 About my experience
 
@@ -58,7 +55,18 @@ Let's explore the endless possibilities of technology together! 🤖✨
 - 🚘 [**@SetUp**](https://www.youtube.com/watch?v=A-X_nLEKpMI) team – EuroBot 2020
 - 🖍 [**@ArtBot**](https://www.youtube.com/watch?v=yo2CAUs99NE) is a robot that draws huge pictures on the floor
 
-### contact me at
+## 🔗 Interesting Links
+- Grounding LLM on robot (post) – [read on Habr](https://habr.com/ru/articles/756800)
+
+## 🎉 Achievements
+- 💰 Grant [Umnik](https://umnik.fasie.ru) for integration of Large Language Models into robotics
+- 🥇 [1st place](https://ntcontest.ru/about/news/Itogi-profilya-Intellektualnye-robototekhnicheskie-sistemy-studtreka-NTO) at **NTO Student track 2022:** Intelligent Robotics Systems track
+- 🥇 1st place at **MAI AviaHack 2022:** Storage capacity reservation forecast
+- 🏆 [Winner](https://moscityhack2022.innoagency.ru) at **Moscow City Hack 2022**
+- 🏆 [Winner](https://misis.ru/news/7995/) at **Digital breakthrough 2022:** Season AI in the category *Robotics and Artificial Intelligence*
+- 🥇 [1st place](https://ntcontest.ru/about/results/results2019) at **ONTI 2019:** Underwater Robotics track
+
+## 🤙 Contact me at
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](http://t.me/atokagzx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yaroslav-savelev-067229241)
 [![mail](https://img.shields.io/badge/yar21sav@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](yar21sav@gmail.com)
