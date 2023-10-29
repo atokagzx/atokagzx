@@ -17,9 +17,12 @@ Let's explore the endless possibilities of technology together! 🤖✨
 ![Qt](https://img.shields.io/badge/PyQt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-2C9187.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-3E9FAA.svg?style=for-the-badge&logo=local&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-E19E3E.svg?style=for-the-badge&logo=ChakraUI&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333.svg?style=for-the-badge&logo=WebRTC&logoColor=white)
+
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808.svg?style=for-the-badge&logo=FFmpeg&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 ## 🤖 Robotics Stack:
 
@@ -29,10 +32,12 @@ Let's explore the endless possibilities of technology together! 🤖✨
 ![Gym](https://img.shields.io/badge/OpenAI_Gym-0081A5.svg?style=for-the-badge&logo=OpenAIGym&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/Torch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808.svg?style=for-the-badge&logo=FFmpeg&logoColor=white)
 ### platforms
 ![STM](https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![Realsense](https://img.shields.io/badge/Realsense-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white)
 ![Kinect](https://img.shields.io/badge/Kinect_DK-0078D4.svg?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white)
 
 ![Universal Robots](https://img.shields.io/badge/Universal_robots-589CCB.svg?style=for-the-badge)
 ![KUKA](https://img.shields.io/badge/KUKA-EA6526.svg?style=for-the-badge)
